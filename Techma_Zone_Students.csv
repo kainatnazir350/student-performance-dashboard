@@ -1,0 +1,201 @@
+student_id,student_name,gender,city,course,field,course_type,trainer,enrollment_date,status,attendance_pct,feedback_rating
+TZ-258,Hassan Malik,Male,Hyderabad,Data Science Basics (Short),Data Science,Short,Ali Raza,2025-01-11,Completed,88,5
+TZ-220,Usman Siddiqui,Male,Hyderabad,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-01-15,Completed,93,5
+TZ-226,Talha Ansari,Male,Lahore,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-01-17,Completed,75,4
+TZ-112,Ali Raza,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-01-23,Completed,82,4
+TZ-254,Laiba Ali,Female,Lahore,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-01-31,Completed,86,4
+TZ-123,Hamza Malik,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-02-15,Dropped Out,48,
+TZ-143,Zainab Hussain,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-02-24,Completed,83,4
+TZ-206,Zain Qureshi,Male,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2025-03-18,Completed,90,4
+TZ-167,Ali Raza,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-03-21,Completed,84,3
+TZ-264,Fatima Ali,Female,Karachi,AI Basics (Short),Artificial Intelligence,Short,Ali Raza,2025-04-04,Completed,81,5
+TZ-188,Fahad Hussain,Male,Hyderabad,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-04-10,Completed,87,5
+TZ-189,Rabia Hussain,Female,Hyderabad,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-04-11,Dropped Out,37,1
+TZ-245,Saad Qureshi,Male,Islamabad,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-04-12,Completed,95,4
+TZ-115,Maryam Ansari,Female,Hyderabad,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-04-12,Completed,86,3
+TZ-139,Laiba Khan,Female,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2025-04-13,Dropped Out,42,
+TZ-110,Laiba Ahmed,Female,Online,Data Science Basics (Short),Data Science,Short,Sana Khalid,2025-04-13,Completed,86,5
+TZ-201,Sadia Malik,Female,Hyderabad,AI Diploma (Long),Artificial Intelligence,Long,Ali Raza,2025-04-15,Dropped Out,41,3
+TZ-194,Maryam Siddiqui,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-04-16,Completed,91,
+TZ-219,Nimra Siddiqui,Female,Hyderabad,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-04-17,Completed,87,4
+TZ-299,Laiba Hussain,Female,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2025-04-21,Completed,89,4
+TZ-224,Laiba Hussain,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2025-04-28,Completed,100,4
+TZ-109,Ayesha Ahmed,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-05-04,Completed,90,3
+TZ-146,Sana Memon,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-05-05,Completed,85,4
+TZ-202,Ayesha Memon,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-05-07,Completed,90,5
+TZ-235,Imran Ahmed,Male,Hyderabad,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-05-17,Completed,84,4
+TZ-158,Sadia Qureshi,Female,Islamabad,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2025-05-21,Completed,78,5
+TZ-208,Sadia Raza,Female,Lahore,AI Diploma (Long),Artificial Intelligence,Long,Ali Raza,2025-05-21,Completed,87,4
+TZ-296,Talha Hussain,Male,Online,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-05-26,Completed,91,
+TZ-199,Ahmed Ali,Male,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2025-05-26,Dropped Out,47,
+TZ-292,Usman Qureshi,Male,Karachi,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-06-06,Completed,99,4
+TZ-137,Imran Baloch,Male,Hyderabad,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2025-06-06,Completed,92,3
+TZ-252,Hassan Ahmed,Male,Islamabad,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-06-12,Dropped Out,42,
+TZ-149,Maryam Ansari,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-06-21,Completed,75,5
+TZ-111,Rabia Raza,Female,Lahore,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-06-21,Dropped Out,49,
+TZ-300,Maryam Baloch,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-06-25,Completed,88,5
+TZ-113,Iqra Ahmed,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-07-10,Completed,87,3
+TZ-212,Hassan Malik,Male,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-07-11,Completed,79,5
+TZ-135,Saad Siddiqui,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-07-13,Completed,94,4
+TZ-204,Imran Hussain,Male,Islamabad,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2025-07-17,Completed,98,5
+TZ-106,Rabia Ahmed,Female,Online,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2025-07-21,Completed,80,4
+TZ-133,Bilal Siddiqui,Male,Online,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-07-23,Completed,99,4
+TZ-289,Areeba Ali,Female,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-07-23,Dropped Out,43,
+TZ-174,Usman Ahmed,Male,Hyderabad,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-08-03,Completed,97,3
+TZ-125,Faisal Shaikh,Male,Hyderabad,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-08-04,Dropped Out,65,
+TZ-274,Fahad Ansari,Male,Online,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-08-04,Completed,94,4
+TZ-108,Zainab Ali,Female,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-08-05,Completed,81,4
+TZ-153,Sana Memon,Female,Islamabad,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2025-08-07,Completed,86,4
+TZ-275,Hina Hussain,Female,Karachi,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-08-08,Completed,95,4
+TZ-121,Sadia Memon,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-08-10,Completed,83,5
+TZ-283,Saad Malik,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2025-08-16,Dropped Out,37,
+TZ-147,Hassan Siddiqui,Male,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-08-18,Completed,87,5
+TZ-122,Faisal Ansari,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-08-22,Completed,87,5
+TZ-260,Nimra Khan,Female,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-08-27,Completed,92,3
+TZ-225,Nimra Baloch,Female,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Ali Raza,2025-09-05,Completed,79,5
+TZ-271,Fatima Baloch,Female,Hyderabad,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2025-09-09,Completed,80,
+TZ-120,Rabia Ahmed,Female,Hyderabad,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2025-09-10,Completed,78,4
+TZ-240,Saad Qureshi,Male,Islamabad,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-09-16,Completed,92,
+TZ-242,Sana Hussain,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2025-09-16,Dropped Out,34,5
+TZ-178,Bilal Raza,Male,Online,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-09-18,Dropped Out,40,5
+TZ-265,Zainab Baloch,Female,Karachi,Data Science Basics (Short),Data Science,Short,Sana Khalid,2025-09-20,Completed,89,
+TZ-222,Bilal Baloch,Male,Online,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2025-09-26,Completed,92,4
+TZ-157,Maryam Ali,Female,Karachi,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2025-09-27,Completed,87,5
+TZ-128,Ahmed Ansari,Male,Online,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-10-01,Completed,85,4
+TZ-140,Hamza Ansari,Male,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2025-10-03,Completed,88,3
+TZ-268,Sana Malik,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2025-10-04,Completed,91,4
+TZ-281,Sana Ahmed,Female,Hyderabad,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-10-06,Completed,98,3
+TZ-256,Talha Siddiqui,Male,Hyderabad,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-10-11,Completed,90,
+TZ-116,Faisal Ansari,Male,Online,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2025-10-16,Completed,80,3
+TZ-187,Maryam Shaikh,Female,Lahore,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-10-23,Completed,100,5
+TZ-105,Zain Siddiqui,Male,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2025-10-23,Dropped Out,48,3
+TZ-262,Ayesha Malik,Female,Online,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-10-25,Completed,81,3
+TZ-279,Areeba Qureshi,Female,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-10-27,Completed,87,5
+TZ-183,Talha Qureshi,Male,Karachi,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-10-27,Completed,89,
+TZ-216,Saad Ahmed,Male,Online,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-10-28,Completed,85,
+TZ-193,Hassan Ahmed,Male,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Ali Raza,2025-10-30,Dropped Out,35,
+TZ-277,Imran Ansari,Male,Islamabad,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-11-01,Completed,87,
+TZ-142,Sadia Malik,Female,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-11-02,Completed,77,4
+TZ-214,Hamza Baloch,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-11-03,Completed,82,
+TZ-145,Hamza Hussain,Male,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2025-11-05,Completed,96,5
+TZ-166,Talha Ansari,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-11-12,Completed,77,3
+TZ-207,Usman Khan,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2025-11-12,Completed,84,
+TZ-280,Hassan Ahmed,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Ali Raza,2025-11-13,Completed,78,4
+TZ-270,Hina Raza,Female,Karachi,Data Science Basics (Short),Data Science,Short,Sana Khalid,2025-11-14,Completed,89,4
+TZ-223,Hina Ahmed,Female,Online,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-11-17,Completed,80,4
+TZ-161,Ahmed Ansari,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2025-11-20,Completed,90,3
+TZ-255,Bilal Qureshi,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-11-23,Completed,91,
+TZ-114,Areeba Ali,Female,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2025-11-23,Completed,88,4
+TZ-151,Fatima Khan,Female,Hyderabad,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-11-23,Completed,86,4
+TZ-182,Bilal Shaikh,Male,Karachi,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-11-23,Completed,100,5
+TZ-107,Fatima Raza,Female,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-11-27,Completed,92,
+TZ-172,Nimra Siddiqui,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-11-27,Completed,80,
+TZ-263,Laiba Shaikh,Female,Islamabad,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2025-11-29,Completed,84,
+TZ-276,Hina Ali,Female,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-11-29,Completed,82,4
+TZ-191,Hamza Raza,Male,Online,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-11-30,Dropped Out,52,3
+TZ-213,Fahad Malik,Male,Lahore,Data Science Basics (Short),Data Science,Short,Sana Khalid,2025-12-01,Completed,95,5
+TZ-295,Rabia Raza,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-12-04,Completed,94,3
+TZ-239,Iqra Raza,Female,Islamabad,Data Science Diploma (Long),Data Science,Long,Ali Raza,2025-12-10,Completed,88,4
+TZ-132,Ali Baloch,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Ali Raza,2025-12-10,Completed,82,4
+TZ-185,Fahad Raza,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-12-11,Completed,95,3
+TZ-259,Laiba Baloch,Female,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2025-12-17,Completed,83,
+TZ-136,Hassan Raza,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-12-18,Completed,86,5
+TZ-175,Fahad Ansari,Male,Lahore,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2025-12-19,Completed,93,4
+TZ-141,Iqra Khan,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-12-20,Completed,91,4
+TZ-285,Maryam Ali,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2025-12-20,Dropped Out,51,3
+TZ-164,Zain Ahmed,Male,Karachi,Data Science Basics (Short),Data Science,Short,Sana Khalid,2025-12-24,Completed,99,5
+TZ-186,Areeba Siddiqui,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2025-12-26,Dropped Out,47,3
+TZ-165,Zainab Ahmed,Female,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2025-12-26,Completed,90,4
+TZ-221,Sana Memon,Female,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2025-12-28,Dropped Out,51,
+TZ-241,Saad Shaikh,Male,Online,Data Science Basics (Short),Data Science,Short,Hina Farooq,2025-12-31,Completed,85,4
+TZ-127,Sana Hussain,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2025-12-31,Completed,86,4
+TZ-102,Hamza Ali,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2026-01-01,Completed,85,4
+TZ-272,Hina Qureshi,Female,Lahore,Data Science Basics (Short),Data Science,Short,Sana Khalid,2026-01-06,Completed,83,5
+TZ-163,Maryam Ansari,Female,Lahore,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-01-06,Completed,100,4
+TZ-103,Imran Ahmed,Male,Hyderabad,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-01-08,Completed,88,4
+TZ-232,Nimra Ansari,Female,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2026-01-10,Completed,82,5
+TZ-297,Talha Shaikh,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-01-19,Completed,87,4
+TZ-162,Zain Shaikh,Male,Lahore,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2026-01-22,Completed,82,3
+TZ-227,Iqra Ansari,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-01-23,Completed,91,3
+TZ-150,Ayesha Hussain,Female,Islamabad,Data Science Diploma (Long),Data Science,Long,Ali Raza,2026-01-24,Completed,89,5
+TZ-168,Talha Siddiqui,Male,Online,Data Science Diploma (Long),Data Science,Long,Ali Raza,2026-01-25,Completed,87,4
+TZ-138,Hamza Siddiqui,Male,Lahore,AI Basics (Short),Artificial Intelligence,Short,Ali Raza,2026-01-27,Dropped Out,67,
+TZ-246,Sana Memon,Female,Lahore,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-01-29,Completed,75,4
+TZ-156,Ali Malik,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-01-29,Completed,87,5
+TZ-294,Hamza Baloch,Male,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-01-30,Completed,90,4
+TZ-177,Bilal Ahmed,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-02-07,Completed,87,5
+TZ-154,Ahmed Hussain,Male,Online,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2026-02-14,Completed,94,
+TZ-217,Areeba Baloch,Female,Islamabad,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-02-17,Completed,87,5
+TZ-192,Sadia Ahmed,Female,Online,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2026-02-23,Completed,88,4
+TZ-286,Areeba Ahmed,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-02-25,Dropped Out,52,
+TZ-155,Zainab Ansari,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-02-26,Dropped Out,40,
+TZ-215,Usman Ansari,Male,Islamabad,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-02-27,Completed,89,4
+TZ-119,Ahmed Ahmed,Male,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2026-03-02,Completed,92,5
+TZ-184,Sana Raza,Female,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2026-03-08,Completed,94,
+TZ-197,Hamza Memon,Male,Hyderabad,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-03-10,Dropped Out,40,5
+TZ-266,Ayesha Shaikh,Female,Hyderabad,Data Science Basics (Short),Data Science,Short,Hina Farooq,2026-03-11,Completed,89,5
+TZ-130,Usman Qureshi,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2026-03-22,Completed,100,4
+TZ-134,Bilal Memon,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-03-24,Completed,85,5
+TZ-144,Zainab Malik,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2026-03-28,Completed,99,3
+TZ-278,Talha Ali,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2026-03-29,Completed,90,5
+TZ-160,Talha Memon,Male,Islamabad,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2026-04-02,Completed,93,4
+TZ-269,Ali Baloch,Male,Lahore,Data Science Basics (Short),Data Science,Short,Sana Khalid,2026-04-06,Completed,81,5
+TZ-196,Sadia Siddiqui,Female,Online,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2026-04-09,Completed,85,4
+TZ-126,Fahad Ahmed,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2026-04-17,Completed,86,5
+TZ-237,Bilal Malik,Male,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2026-04-21,Completed,80,4
+TZ-190,Faisal Ahmed,Male,Karachi,Data Science Basics (Short),Data Science,Short,Hina Farooq,2026-04-23,Completed,91,
+TZ-101,Sadia Ahmed,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2026-05-03,Dropped Out,64,
+TZ-176,Maryam Memon,Female,Online,AI Diploma (Long),Artificial Intelligence,Long,Ali Raza,2026-05-05,Active,78,
+TZ-257,Laiba Raza,Female,Karachi,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2026-05-05,Active,88,
+TZ-180,Imran Hussain,Male,Hyderabad,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2026-05-10,Active,74,
+TZ-104,Faisal Memon,Male,Lahore,AI Basics (Short),Artificial Intelligence,Short,Ali Raza,2026-05-10,Completed,88,4
+TZ-244,Ali Hussain,Male,Karachi,Data Science Basics (Short),Data Science,Short,Hina Farooq,2026-05-14,Dropped Out,42,
+TZ-118,Hassan Memon,Male,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2026-05-20,Completed,92,4
+TZ-291,Hassan Shaikh,Male,Lahore,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2026-05-24,Dropped Out,70,3
+TZ-236,Talha Memon,Male,Online,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2026-05-26,Dropped Out,47,3
+TZ-195,Imran Shaikh,Male,Hyderabad,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2026-05-30,Completed,86,4
+TZ-234,Fahad Memon,Male,Lahore,Data Science Diploma (Long),Data Science,Long,Sana Khalid,2026-05-30,Active,76,
+TZ-171,Faisal Siddiqui,Male,Lahore,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2026-06-01,Completed,75,3
+TZ-253,Areeba Hussain,Female,Karachi,AI Basics (Short),Artificial Intelligence,Short,Ali Raza,2026-06-05,Completed,87,4
+TZ-248,Nimra Shaikh,Female,Karachi,Data Science Basics (Short),Data Science,Short,Sana Khalid,2026-06-08,Completed,81,
+TZ-129,Faisal Baloch,Male,Karachi,Data Science Basics (Short),Data Science,Short,Sana Khalid,2026-06-09,Completed,83,4
+TZ-249,Bilal Hussain,Male,Karachi,Data Science Basics (Short),Data Science,Short,Sana Khalid,2026-06-11,Completed,84,4
+TZ-148,Hina Memon,Female,Hyderabad,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-06-16,Completed,83,
+TZ-218,Maryam Ali,Female,Lahore,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-06-17,Completed,94,5
+TZ-288,Talha Ahmed,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-06-18,Completed,96,
+TZ-209,Sadia Raza,Female,Lahore,AI Diploma (Long),Artificial Intelligence,Long,Usman Tariq,2026-06-19,Active,91,
+TZ-293,Rabia Malik,Female,Lahore,Data Science Diploma (Long),Data Science,Long,Ali Raza,2026-06-21,Active,73,
+TZ-243,Zain Ahmed,Male,Lahore,Data Analytics Professional (Long),Data Analytics,Long,Sana Khalid,2026-06-23,Active,89,
+TZ-159,Usman Siddiqui,Male,Online,Data Science Basics (Short),Data Science,Short,Sana Khalid,2026-06-28,Completed,82,5
+TZ-230,Fatima Raza,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-07-05,Completed,96,5
+TZ-273,Hamza Raza,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Ali Raza,2026-07-11,Active,84,
+TZ-233,Imran Malik,Male,Karachi,Data Science Basics (Short),Data Science,Short,Sana Khalid,2026-07-13,Completed,81,5
+TZ-247,Hassan Raza,Male,Hyderabad,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-07-18,Completed,96,4
+TZ-282,Maryam Khan,Female,Online,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2026-07-24,Completed,89,5
+TZ-290,Sana Shaikh,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2026-08-02,Completed,99,5
+TZ-152,Imran Raza,Male,Hyderabad,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2026-08-07,Completed,87,4
+TZ-179,Ahmed Baloch,Male,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-08-08,Dropped Out,49,4
+TZ-200,Ahmed Qureshi,Male,Lahore,Data Science Diploma (Long),Data Science,Long,Ali Raza,2026-08-09,Active,100,
+TZ-210,Saad Malik,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Ali Raza,2026-08-09,Completed,85,
+TZ-131,Imran Memon,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2026-08-10,Active,86,
+TZ-205,Laiba Ahmed,Female,Online,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2026-08-11,Active,74,
+TZ-169,Hamza Ansari,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-08-12,Completed,81,5
+TZ-298,Ali Ansari,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-08-15,Completed,98,5
+TZ-287,Iqra Khan,Female,Online,Data Analytics Professional (Long),Data Analytics,Long,Usman Tariq,2026-08-16,Active,75,
+TZ-231,Ayesha Baloch,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-08-18,Completed,84,3
+TZ-250,Faisal Siddiqui,Male,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-08-22,Completed,81,4
+TZ-170,Laiba Khan,Female,Online,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2026-08-24,Completed,83,
+TZ-228,Areeba Malik,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2026-08-26,Completed,74,4
+TZ-203,Hamza Siddiqui,Male,Online,AI Diploma (Long),Artificial Intelligence,Long,Ali Raza,2026-08-28,Active,76,
+TZ-229,Hina Malik,Female,Karachi,Data Analytics Basics (Short),Data Analytics,Short,Usman Tariq,2026-08-30,Completed,93,4
+TZ-173,Fatima Qureshi,Female,Islamabad,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-08-31,Dropped Out,48,
+TZ-238,Maryam Siddiqui,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-09-01,Active,95,
+TZ-261,Usman Malik,Male,Islamabad,Data Analytics Basics (Short),Data Analytics,Short,Hina Farooq,2026-09-03,Active,96,
+TZ-124,Talha Hussain,Male,Islamabad,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-09-04,Active,83,
+TZ-198,Sana Ahmed,Female,Islamabad,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-09-05,Active,93,
+TZ-117,Hina Raza,Female,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2026-09-10,Active,87,
+TZ-267,Imran Malik,Male,Karachi,Data Science Basics (Short),Data Science,Short,Ali Raza,2026-09-12,Active,82,
+TZ-211,Talha Baloch,Male,Karachi,Data Science Diploma (Long),Data Science,Long,Hina Farooq,2026-09-14,Active,85,
+TZ-251,Zainab Hussain,Female,Karachi,Data Analytics Professional (Long),Data Analytics,Long,Hina Farooq,2026-09-15,Active,93,
+TZ-284,Fahad Khan,Male,Karachi,AI Basics (Short),Artificial Intelligence,Short,Usman Tariq,2026-09-16,Active,78,
+TZ-181,Sadia Ansari,Female,Lahore,Data Analytics Basics (Short),Data Analytics,Short,Sana Khalid,2026-09-18,Dropped Out,47,
